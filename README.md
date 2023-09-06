@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  🤖 Know about my experiences https://www.linkedin.com/in/rabia-yurdakul-telef-889196a7/
 
-   Udemy Discount Link: https://bit.ly/3KGediK
+   Udemy Discount Link: https://bit.ly/483GvO7
 
 
 
