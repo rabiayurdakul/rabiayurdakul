@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
    Udemy Java, Spring Boot ile Microservice Gelistirme Docker (Turkce) Indirim Linki: https://bit.ly/45D6GZV
 
-   Udemy Spring Boot, Microservices, Docker, Redis (English) Course Discount Link: https://bit.ly/3FkKjO2
+   Udemy Spring Boot, Microservices, Docker, Redis Course Discount Link: https://bit.ly/3Q4VI9H
    
    
 
