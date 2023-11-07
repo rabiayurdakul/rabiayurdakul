@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  🤖 Know about my experiences https://www.linkedin.com/in/rabia-yurdakul-telef-889196a7/
 
-   Udemy Java, Spring Boot ile Microservice Gelistirme Docker (Turkce) Indirim Linki: https://bit.ly/45D6GZV
+   Udemy Java, Spring Boot ile Microservice Gelistirme Docker (Turkce) Indirim Linki: https://bit.ly/47nlXiq
 
    Udemy Spring Boot, Microservices, Docker, Redis Course Discount Link: https://bit.ly/3Q4VI9H
    
